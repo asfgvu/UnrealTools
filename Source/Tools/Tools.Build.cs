@@ -19,7 +19,9 @@ public class Tools : ModuleRules
 			"AssetRegistry",
 			"AssetTools",
 			"EditorSubsystem",
-			"UnrealEd"
+			"UnrealEd",
+            "EditorScriptingUtilities",
+            "Blutility"
         });
     }
 }

@@ -2,7 +2,6 @@
 
 
 #include "MeshTools.h"
-#include "../../../../../../../../Program Files/Epic Games/UE_5.4/Engine/Plugins/Editor/EditorScriptingUtilities/Source/EditorScriptingUtilities/Public/EditorAssetLibrary.h"
 
 void UMeshTools::GenerateLODsForMesh(UStaticMesh* Mesh, int LODIndex, FVector2D LODsValues)
 {

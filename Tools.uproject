@@ -10,7 +10,8 @@
 			"LoadingPhase": "Default",
 			"AdditionalDependencies": [
 				"UnrealEd",
-				"Engine"
+				"Engine",
+				"EditorSubsystem"
 			]
 		}
 	],
